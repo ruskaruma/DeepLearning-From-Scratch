@@ -1,2 +1,2 @@
-# dl-from-scratch
+# DeepLearning-From_Scratch
 Building brains out of math and vibes. Exploring Keras, PyTorch, TensorFlow, and Transformers through hands-on experiments and controlled chaos. Bring snacks.
