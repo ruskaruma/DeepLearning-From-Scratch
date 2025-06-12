@@ -15,9 +15,6 @@ This repo is my personal deep learning lab, a chaotic-but-curated mix of:
 
 ---
 
-
----
-
 ## Why This Exists
 
 Because tutorials are cool, but experience slaps harder.  
@@ -52,7 +49,7 @@ This repo is how I:
 Wanna brainstorm AI chaos? Fix my models? Yell at my gradients?
 
 Drop me a line: ruskaruma.gg@gmail.com  
-Or raise an issue — even if it’s just to say hi.
+Or raise an issue and even if it’s just to say hi.
 
 ---
 
